@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Manh Hung. I'm a CompSci undergraduate who is passionate about backend development and developer tools.
+- 🌱 I’ve recently built an API Management & Collaboration platform inspired by Postman, check it out [here](https://github.com/manhhung2111/APIFlow)
+- 🔭 I’m currently learning about Elastic Search, Kafka, PostgreSQL, and Docker
 
 <!--
 **manhhung2111/manhhung2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
